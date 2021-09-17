@@ -27,3 +27,5 @@
 * [Version Control with Git](http://swcarpentry.github.io/git-novice/)  
 * [GitTutorial](https://justbennet.github.io/GitTutorial/index.html)  
 * [Pro Git Book](https://git-scm.com/book/en/v2) 
+
+# Conclusion
