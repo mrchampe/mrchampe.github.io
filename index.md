@@ -1,5 +1,3 @@
-# GitHub Intro - Quick Reference
-
 # Tooling
 
 ### GitHub User Account
